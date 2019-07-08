@@ -3,6 +3,19 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
+## Introduction to Economic Modeling
+
+```yaml
+type: VideoExercise
+key: bd0e6f6d3a
+xp: 50
+```
+
+`@projector_key`
+fcbbb89071cf5a91d502dded108df96b
+
+---
+
 ## Example coding exercise
 
 ```yaml
@@ -40,16 +53,3 @@ This is an example exercise. I am doing it because the resources are not working
 ```{r}
 
 ```
-
----
-
-## Introduction to Economic Modeling
-
-```yaml
-type: VideoExercise
-key: bd0e6f6d3a
-xp: 50
-```
-
-`@projector_key`
-fcbbb89071cf5a91d502dded108df96b
