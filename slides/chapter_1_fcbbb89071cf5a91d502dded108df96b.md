@@ -15,7 +15,7 @@ name: Lyuben Ivanov
 title: PhD
 
 `@script`
-
+I just want to explain the difference between mathematical modeling, statistical modeling and economic modeling.
 
 ---
 
