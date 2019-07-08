@@ -26,7 +26,7 @@ xp: 100
 skills: 1
 ```
 
-The first exercise demonstrates the differences between mathematical model, statistical model and economic model.
+The first exercise demonstrates the differences between a mathematical model, a statistical model and an economic model.
 
 `@instructions`
 
